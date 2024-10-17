@@ -1,0 +1,6 @@
+{
+    "api_key": "xxxxxxx",
+    "endpoint": "https://xxxxxx.openai.azure.com/",
+    "deployment_id": "sammo-gpt-16k",
+    "api_version": "2024-02-01"
+}

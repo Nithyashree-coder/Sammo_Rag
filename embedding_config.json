@@ -1,0 +1,6 @@
+{
+    "api_key": "xxxxxxxxx",
+    "endpoint": "https://xxxxx.openai.azure.com/",
+    "deployment_id": "rag-embedding-sammo",
+    "api_version": "2023-05-15"
+}
