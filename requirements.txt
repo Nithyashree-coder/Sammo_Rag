@@ -1,0 +1,8 @@
+os
+json
+re
+string
+collections
+typing
+sammo==0.2.0
+openai==1.37.0
